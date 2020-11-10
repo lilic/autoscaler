@@ -39,7 +39,7 @@ import (
 
 	"golang.org/x/net/websocket"
 
-	"k8s.io/klog"
+	"k8s.io/klog/v2"
 
 	"github.com/onsi/ginkgo"
 	"github.com/onsi/gomega"

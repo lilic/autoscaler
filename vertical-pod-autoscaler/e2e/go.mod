@@ -19,7 +19,7 @@ require (
 	k8s.io/autoscaler/vertical-pod-autoscaler v0.0.0-20200605154545-936eea18fb1d
 	k8s.io/client-go v11.0.0+incompatible
 	k8s.io/component-base v0.18.3
-	k8s.io/klog v1.0.0
+	k8s.io/klog/v2 v1.0.0
 	k8s.io/kubernetes v1.18.3
 	k8s.io/utils v0.0.0-20200324210504-a9aa75ae1b89
 )
